@@ -7,8 +7,8 @@ void main()
 	
 	bbb=111;
 	
-	ccc[0]='a';
-	ccc[1]='b';
-	ccc[2]='c';
+	ccc[0]='d';
+	ccc[1]='g';
+	ccc[2]='h';
 
 }
